@@ -1,0 +1,171 @@
+@media (max-width: 800px){
+
+#icon{
+margin-right: 20px;
+padding-top: 10px;
+text-align: center;
+   color: wheat;
+   display: block;
+   
+}
+nav{
+    justify-content: space-between;
+width: 100vw;
+
+}
+#bord{
+    width: 100vw;
+    justify-content: space-evenly;
+    height: 550px;
+}
+
+#bord>div{
+    overflow: hidden;
+  
+   
+
+}
+#white-text {
+    color: white;
+    margin-left: 5px;
+    
+  }
+#main-Two{
+    width: 100vw;
+}
+.text-center{
+    width: 80%;
+}
+#main-three{
+    display: inline;
+    width: 100vw;
+    margin: 0px;
+    height: 100px;
+}
+#pic-box{
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+overflow: hidden;
+}
+#pic-box>img{
+   width: 85%;
+   margin: auto;
+   
+}
+#nave{
+    display: none;
+    width: 100vw;
+}
+#main-four{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    width: 100vw;
+ margin: 30px 0 0 0;
+   
+}
+#main-four>img{
+    width: 90%;
+    margin: auto;
+    height: 60%;
+}
+#main-four>h1{
+    width: 90%;
+    margin: auto;
+}
+#main-four>p{
+    width: 90%;
+    margin: auto;
+}
+#main-five{
+ flex-direction: column;
+ width: 100vw;
+}
+#box-0{
+    width: 100vw;
+  
+}
+#box-0>h1{
+    width: 90%;
+    margin: auto;
+    
+}
+#box-0>h4{
+    width: 90%;
+    margin: auto;
+    
+}
+#box-0>a{
+    width: 90%;
+    margin: auto;
+    
+}
+#box-0>p{
+    width: 90%;
+    margin: auto;
+    
+}
+#main-six{
+   flex-direction: column-reverse;
+   width: 100vw;
+  
+
+}
+#six-1{
+    width: 100vw;
+}
+#six-1>img{
+    width: 100%;
+    height: 100%;
+}
+#six-2{
+    width: 100vw;
+}
+#box-1{
+width: auto;
+}
+#box-2{
+    width: auto;
+}
+#box-3{
+    width: auto;
+}
+.para{
+    margin: 0%;
+    width: 100%;
+}
+#text-box{
+    width: 90%;
+    padding-left: 20px;
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
